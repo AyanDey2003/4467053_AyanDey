@@ -1,0 +1,40 @@
+git innit
+got init
+git init
+git add .
+git status
+git commit -m "Sdlc SS"
+git push
+git commit -m "Sdlc SS"
+git congif --global user.name "AyanDey"
+git config --global user.name "AyanDey"
+git config --global user.email "ayan2003dey@gmail.com"
+git commit -m "Sdlc SS"
+git status
+git push
+git --version
+git init
+git status
+git add .
+git status
+git commit -m "all Certificates"
+git push
+git status
+git log
+git init
+git add .
+git status
+git commit -m "Fix"
+git push
+git init
+git status
+git add .
+git status
+git commit -m "Certificates of two modules updated"
+git push
+git status
+git log
+git branch linuxbranch
+git branch
+history
+history -w ~/my_custom_history.txt
